@@ -25,7 +25,7 @@ export default {
   data() {
     return {
       value1: true,
-      value2: true，
+      value2: true,
       tableData: [{
           date: '2016-05-02',
           name: '王小虎',
